@@ -1,7 +1,7 @@
 baseURL = "https://nofakingway.com"
 languageCod = "en-us"
 title = "NOFA Kingway"
-theme = "hugo-theme-bootstrap4-blog"
+theme = "ananke"
 
 MetaDataFormat = "yaml"
 DefaultContentLanguage = "en"
