@@ -1,11 +1,9 @@
 ---
-title: "Building in DocPad"
-type: "post"
-author: Mark Stouffer
-date: 2018-02-19T17:14:00-08:00
+title: "Developing in Docpad"
+date: 2018-02-19T19:39:35-08:00
 draft: false
-tags: vscode articulation lo-fi
-header_image: http://placehold.it/900x250
+author: Mark Stouffer
+featured_image: http://placehold.it/900x250
 ---
 
 I've started developing in Docpad because I love lo-fi text-only documentation. This CMS uses folder structure and tags for site hierarchy and is very flexible. The MarkDown is transpiled into html and I can use a veriety of templating languages for the layout components.
@@ -29,4 +27,3 @@ Notes can be very specific, for instance specifying specific colors or quantitie
 I am reminded of Microsoft's decade-long foray into "visual programming". The whole asp.net toolset was built on the premise that people wanted to create things visually, and that that method was more "creative". Apple had a more impressive visual UI. The Microsoft OS still started up with text scripts running while the OS booted. They made a valiant effort to move furthe into the visual idiom, but at around the same time period, Apple was moving in the other direction. Now it is the Apple users who are more likely to have a command line terminal window open to run the verbal commands they want to execute.
 
 The entire computing industry has moved toward visual-only interfaces repeatedly over the last several decades, for instance in data-transmission schemes. Now it is all JSON and YAML at some point. People want words to help them understand pictures.
-

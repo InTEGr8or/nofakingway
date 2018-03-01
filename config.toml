@@ -1,7 +1,7 @@
 baseURL = "https://nofakingway.com"
 languageCod = "en-us"
 title = "NOFA Kingway"
-theme = "hugo-theme-bootstrap4-blog"
+theme = "ananke"
 
 MetaDataFormat = "yaml"
 DefaultContentLanguage = "en"
@@ -14,3 +14,15 @@ enableRobotsTXT = true
   changefreq = "monthly"
   priority = 0.5
   filename = "sitemap.xml"
+
+[permalinks]
+    post = "/:year/:month/:day/:filename/"
+    code = "/:filename/"
+
+[taxonomies]
+    tag = "tags"
+    topic = "topics"
+
+[author]
+    name = "yourname"
+    email = "yourname@example.com"
