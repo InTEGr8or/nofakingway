@@ -1,10 +1,8 @@
 ---
 title: "Building in DocPad"
-type: "post"
 author: Mark Stouffer
 date: 2018-02-19T17:14:00-08:00
 draft: false
-tags: vscode articulation lo-fi
 header_image: http://placehold.it/900x250
 ---
 

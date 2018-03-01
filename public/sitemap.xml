@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://nofakingway.com/posts/initial-hugo-post/</loc>
+    <lastmod>2018-02-28T17:14:00-08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://nofakingway.com/posts/second-post-by-cli/</loc>
+    <lastmod>2018-02-28T17:14:00-08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://nofakingway.com/about/</loc>
+    <lastmod>2018-02-28T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://nofakingway.com/posts/building-in-docpad/</loc>
+    <lastmod>2018-02-19T17:14:00-08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://nofakingway.com/categories/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://nofakingway.com/tags/hugo-development/</loc>
+    <lastmod>2018-02-28T17:14:00-08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://nofakingway.com/</loc>
+    <lastmod>2018-02-28T17:14:00-08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://nofakingway.com/posts/</loc>
+    <lastmod>2018-02-28T17:14:00-08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://nofakingway.com/tags/</loc>
+    <lastmod>2018-02-28T17:14:00-08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://nofakingway.com/tags/vscode-articulation-lo-fi/</loc>
+    <lastmod>2018-02-19T17:14:00-08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
