@@ -1,0 +1,16 @@
+baseURL = "https://nofakingway.com"
+languageCod = "en-us"
+title = "NOFA Kingway"
+theme = "hugo-theme-bootstrap4-blog"
+
+MetaDataFormat = "yaml"
+DefaultContentLanguage = "en"
+SectionPagesMenu = "main"
+Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
+googleAnalytics = ""
+enableRobotsTXT = true
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
