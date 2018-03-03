@@ -1,12 +1,11 @@
-baseURL = "https://nofakingway.com"
+theme = "ananke"
+baseURL = "http://nofakingway.com"
 languageCod = "en-us"
 title = "NOFA Kingway"
-theme = "ananke"
-
 MetaDataFormat = "yaml"
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
-Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
+Paginate = 5 # this is set low for demonstrating with dummy content. Set to a higher number
 googleAnalytics = ""
 enableRobotsTXT = true
 
