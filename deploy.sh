@@ -22,9 +22,11 @@ fi
 git commit -m "$msg"
 
 # Push source and build repos.
-git push origin master
+git push origin master -f
 
 # Come Back up to the Project Root
 cd ..
+
+echo -e "Task complete. You may close this window..."
 
 read
