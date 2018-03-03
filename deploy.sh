@@ -6,7 +6,7 @@
 
 echo -e "\033[0;32mDeploying updates to GitHub...\033[0m"
 
-# Build the project.
+Build the project.
 hugo -t "ananke" # if using a theme, replace with `hugo -t <YOURTHEME>`
 
 # Go To Public folder
@@ -26,3 +26,5 @@ git push origin master
 
 # Come Back up to the Project Root
 cd ..
+
+read

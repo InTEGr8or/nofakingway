@@ -3,7 +3,7 @@ title: "Developing in Docpad"
 date: 2018-02-19T19:39:35-08:00
 draft: false
 author: Mark Stouffer
-featured_image: http://placehold.it/900x250
+featured_image: http://lorempixel.com/900/250/people
 ---
 
 I've started developing in Docpad because I love lo-fi text-only documentation. This CMS uses folder structure and tags for site hierarchy and is very flexible. The MarkDown is transpiled into html and I can use a veriety of templating languages for the layout components.
