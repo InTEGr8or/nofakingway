@@ -55,26 +55,21 @@ publishDir = "docs"
   email = "Your email"
 
 [taxonomies]
-  category = "categories"
+  category = "topics"
   tag = "tags"
   series = "series"
 
 # Header Menu
 [[menu.main]]
-  name = "Categories"
-  identifier = "categories"
-  url = "/categories/"
+  name = "Topics"
+  identifier = "topics"
+  url = "/topics/"
   weight = 1
 [[menu.main]]
   name = "Tags"
   identifier = "tags"
   url = "/tags/"
   weight = 2
-[[menu.main]]
-  name = "Archives"
-  identifier = "archives"
-  url = "/archives/"
-  weight = 3
 [[menu.main]]
   name = "About"
   identifier = "about"
