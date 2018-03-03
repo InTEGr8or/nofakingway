@@ -1,7 +1,8 @@
-theme = "bootstrap4-blog"
+theme = "bootstrap"
 baseURL = "http://nofakingway.com"
 languageCod = "en-us"
 title = "NOFA Kingway"
+
 MetaDataFormat = "yaml"
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
@@ -48,6 +49,9 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
 #  name = "Link 1"
 #  url = "https://example.org"
 
+[author]
+  name = "Mark Stouffer"
+  homepage = "http://nofakingway.com"
 
 # Theme variables
 #
@@ -118,3 +122,42 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
 #[languages.bg]
 
 # vim: ts=2 sw=2 et
+
+[[menu.main]]
+    name = "TAGS"
+    pre = "<i class='fa fa-tags'></i>"
+    weight = -110
+    identifier = "tags"
+    url = "/tags/"
+
+[[menu.main]]
+    name = "CATEGORIES"
+    pre = "<i class='fa fa-folder-open'></i>"
+    weight = -100
+    identifier = "categories"
+    url = "/categories/"
+
+[[menu.main]]
+    name = "ABOUT"
+    pre = "<i class='fa fa-info-circle'></i>"
+    weight = -90
+    identifier = "about"
+    url = "/about"
+
+[[menu.footer]]
+    name = "DISCLAIMER"
+    weight = -110
+    identifier = "disclaimer"
+    url = "/disclaimer/"
+
+[[menu.footer]]
+    name = "LICENSE"
+    weight = -120
+    identifier = "license"
+    url = "/license/"
+
+[params.widgets]
+  recent_articles = true
+  categories = true
+  tags = true
+  tag_cloud = true

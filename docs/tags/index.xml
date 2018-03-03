@@ -5,8 +5,6 @@
     <link>http://nofakingway.com/tags/</link>
     <description>Recent content in Tags on NOFA Kingway</description>
     <generator>Hugo -- gohugo.io</generator>
-    <managingEditor>mark@nofakingway.com (Mark Stouffer)</managingEditor>
-    <webMaster>mark@nofakingway.com (Mark Stouffer)</webMaster>
     <lastBuildDate>Thu, 01 Mar 2018 21:04:07 -0800</lastBuildDate>
     
 	<atom:link href="http://nofakingway.com/tags/index.xml" rel="self" type="application/rss+xml" />
@@ -16,7 +14,7 @@
       <title>Stack</title>
       <link>http://nofakingway.com/tags/stack/</link>
       <pubDate>Thu, 01 Mar 2018 21:04:07 -0800</pubDate>
-      <author>mark@nofakingway.com (Mark Stouffer)</author>
+      
       <guid>http://nofakingway.com/tags/stack/</guid>
       <description></description>
     </item>
@@ -25,7 +23,7 @@
       <title>Standards</title>
       <link>http://nofakingway.com/tags/standards/</link>
       <pubDate>Thu, 01 Mar 2018 21:04:07 -0800</pubDate>
-      <author>mark@nofakingway.com (Mark Stouffer)</author>
+      
       <guid>http://nofakingway.com/tags/standards/</guid>
       <description></description>
     </item>
@@ -34,7 +32,7 @@
       <title>Tech</title>
       <link>http://nofakingway.com/tags/tech/</link>
       <pubDate>Thu, 01 Mar 2018 21:04:07 -0800</pubDate>
-      <author>mark@nofakingway.com (Mark Stouffer)</author>
+      
       <guid>http://nofakingway.com/tags/tech/</guid>
       <description></description>
     </item>
