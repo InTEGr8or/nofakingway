@@ -12,10 +12,10 @@
     
     <item>
       <title>Choosing Hugo Over DocPad</title>
-      <link>http://nofakingway.com/posts/choosing-hugo-over-docpad/</link>
+      <link>http://nofakingway.com/post/choosing-hugo-over-docpad/</link>
       <pubDate>Thu, 01 Mar 2018 21:04:07 -0800</pubDate>
       
-      <guid>http://nofakingway.com/posts/choosing-hugo-over-docpad/</guid>
+      <guid>http://nofakingway.com/post/choosing-hugo-over-docpad/</guid>
       <description>I love the flexibility of static generated sites. I can create content easily while I also develop the logical structure of the components and their taxonomical relations.
 Most of that is provided by Markdown, including the YAML frontmatter. So the static generator just needs to be easy to start and extend, and it also needs to be sustainable.
 It doesn&amp;rsquo;t make sense to invest in learning how to use a static site generator that is not being actively used by a comunity of people.</description>
