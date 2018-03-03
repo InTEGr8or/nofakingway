@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Topics on NOFA Kingway</title>
+    <link>http://nofakingway.com/topics/</link>
+    <description>Recent content in Topics on NOFA Kingway</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>mark@nofakingway.com (Mark Stouffer)</managingEditor>
+    <webMaster>mark@nofakingway.com (Mark Stouffer)</webMaster>
+    
+	<atom:link href="http://nofakingway.com/topics/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
