@@ -1,5 +1,6 @@
 ---
 title: "Correcting Common Word Games"
+subtitle: Now that everyone seems to be aware of the need for true facts, here is how to grasp them - Eliminate these thinking bugs.
 date: 2018-03-03T20:24:29-08:00
 author: "Mark Stouffer"
 featured_image:
@@ -20,3 +21,4 @@ draft: false
   - Good is building up from a basis towards perfection
   - A single task can be carried out with perfection, but not forever.
 - "Antifa" are not anti-fascist, but pro-socialist.
+	- They boast that they are hard on Hitler-types, with "punch a Nazi in the face", but they are soft on Stalin-types, and socialist history itself.
