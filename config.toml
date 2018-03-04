@@ -2,6 +2,7 @@ theme = "whiteplain"
 baseURL = "http://nofakingway.com"
 languageCod = "en-us"
 title = "NOFA Kingway"
+topics = ["Contradition", "Universal", "Activity"]
 
 MetaDataFormat = "yaml"
 DefaultContentLanguage = "en"
@@ -9,6 +10,8 @@ SectionPagesMenu = "main"
 Paginate = 10 
 enableRobotsTXT = true
 publishDir = "docs"
+googleAnalytics = "UA-115076488-1"
+
 
 [params]
   # Date format
@@ -17,6 +20,7 @@ publishDir = "docs"
 # This is displayer in About page.
 [params.author]
   name = "Mark Stouffer"
+  email = "mark@nofakingway.com"
   # Gravatar or Abatar image
   # gravatar = "Gravatar email or MD5 Hash"
   #avatar = "/path/to/avatar"
@@ -52,7 +56,6 @@ publishDir = "docs"
 #   pinterest = "Pinterest username"
 #   telegram = "Telegram username"
 #   vine = "Vine username"
-  email = "mark@nofakingway.com"
 
 [taxonomies]
   category = "topics"
