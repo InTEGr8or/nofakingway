@@ -1,5 +1,6 @@
 ---
 title: "Developing in Docpad"
+subtitle: The centrality of human-readable text
 date: 2018-02-19T19:39:35-08:00
 draft: false
 author: Mark Stouffer
