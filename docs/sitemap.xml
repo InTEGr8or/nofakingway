@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://nofakingway.com/post/fake-news-fake-science-and-you/</loc>
+    <lastmod>2018-03-02T18:18:44-08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://nofakingway.com/post/choosing-hugo-over-docpad/</loc>
     <lastmod>2018-03-01T21:04:07-08:00</lastmod>
   </url>
@@ -25,13 +30,13 @@
   
   <url>
     <loc>http://nofakingway.com/</loc>
-    <lastmod>2018-03-01T21:04:07-08:00</lastmod>
+    <lastmod>2018-03-02T18:18:44-08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://nofakingway.com/post/</loc>
-    <lastmod>2018-03-01T21:04:07-08:00</lastmod>
+    <lastmod>2018-03-02T18:18:44-08:00</lastmod>
     <priority>0</priority>
   </url>
   
