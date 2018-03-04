@@ -18,6 +18,12 @@
   </url>
   
   <url>
+    <loc>http://nofakingway.com/series/coding/</loc>
+    <lastmod>2018-02-19T19:39:35-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://nofakingway.com/</loc>
     <lastmod>2018-03-01T21:04:07-08:00</lastmod>
     <priority>0</priority>
@@ -31,6 +37,7 @@
   
   <url>
     <loc>http://nofakingway.com/series/</loc>
+    <lastmod>2018-02-19T19:39:35-08:00</lastmod>
     <priority>0</priority>
   </url>
   

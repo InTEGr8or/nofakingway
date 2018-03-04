@@ -3,6 +3,7 @@ title: "Developing in Docpad"
 date: 2018-02-19T19:39:35-08:00
 draft: false
 author: Mark Stouffer
+series: [Coding]
 featured_image: http://placehold.it/900x250
 ---
 

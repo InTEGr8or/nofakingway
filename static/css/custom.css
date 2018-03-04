@@ -17,3 +17,7 @@ a {
 .article-meta-tags {
 	color: rgba(255, 255, 0, 0.692);
 }
+.article img {
+	border: none;
+	padding: 7px 5px 5px 0;
+}
