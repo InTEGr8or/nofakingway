@@ -16,8 +16,8 @@
       <pubDate>Mon, 19 Feb 2018 19:39:35 -0800</pubDate>
       
       <guid>http://nofakingway.com/post/developing-in-docpad/</guid>
-      <description>I&amp;rsquo;ve started developing in Docpad because I love lo-fi text-only documentation. This CMS uses folder structure and tags for site hierarchy and is very flexible. The MarkDown is transpiled into html and I can use a veriety of templating languages for the layout components.
-I&amp;rsquo;m going under the assumption that this will all provide maximal flexability while I am actively creating content.
+      <description>I&amp;rsquo;ve started developing in Docpad because I love lo-fi text-only documentation. This CMS uses folder structure and tags for site hierarchy and is very flexible. The MarkDown is transpiled into html and I can use a variety of templating languages for the layout components.
+I&amp;rsquo;m going under the assumption that this will all provide maximal flexibility while I am actively creating content.
 Lo-fi Conceptual Representations I write a lot of notes every single day in MarkDown and yaml.</description>
     </item>
     

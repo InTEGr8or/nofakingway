@@ -16,7 +16,8 @@
       <pubDate>Sat, 03 Mar 2018 20:24:29 -0800</pubDate>
       
       <guid>http://nofakingway.com/post/correcting-common-word-games/</guid>
-      <description>postmodernism is anti modernism democratization is actually liberalization you own your body, your mind, and your life. no one has ever taken a life.  Find someone who claims to or is reported to have taken a life. Ask them to show you the other life, not their own life, but the life that they took. They will not be able to produce it because they don&amp;rsquo;t have the life.</description>
+      <description>These are some of the thinking-errors that we intend to correct over the coming months as we develop this site:
+ postmodernism is anti modernism democratization is actually liberalization you own your body, your mind, and your life. no one has ever taken a life.  Find someone who claims to or is reported to have taken a life. Ask them to show you the other life, not their own life, but the life that they took.</description>
     </item>
     
     <item>
@@ -47,8 +48,8 @@ It doesn&amp;rsquo;t make sense to invest in learning how to use a static site g
       <pubDate>Mon, 19 Feb 2018 19:39:35 -0800</pubDate>
       
       <guid>http://nofakingway.com/post/developing-in-docpad/</guid>
-      <description>I&amp;rsquo;ve started developing in Docpad because I love lo-fi text-only documentation. This CMS uses folder structure and tags for site hierarchy and is very flexible. The MarkDown is transpiled into html and I can use a veriety of templating languages for the layout components.
-I&amp;rsquo;m going under the assumption that this will all provide maximal flexability while I am actively creating content.
+      <description>I&amp;rsquo;ve started developing in Docpad because I love lo-fi text-only documentation. This CMS uses folder structure and tags for site hierarchy and is very flexible. The MarkDown is transpiled into html and I can use a variety of templating languages for the layout components.
+I&amp;rsquo;m going under the assumption that this will all provide maximal flexibility while I am actively creating content.
 Lo-fi Conceptual Representations I write a lot of notes every single day in MarkDown and yaml.</description>
     </item>
     
