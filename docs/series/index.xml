@@ -5,19 +5,9 @@
     <link>http://nofakingway.com/series/</link>
     <description>Recent content in Series on NOFA Kingway</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 19 Feb 2018 19:39:35 -0800</lastBuildDate>
     
 	<atom:link href="http://nofakingway.com/series/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Coding</title>
-      <link>http://nofakingway.com/series/coding/</link>
-      <pubDate>Mon, 19 Feb 2018 19:39:35 -0800</pubDate>
-      
-      <guid>http://nofakingway.com/series/coding/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>

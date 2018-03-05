@@ -6,6 +6,8 @@ author: "Mark Stouffer"
 featured_image:
 draft: false
 ---
+These are some of the thinking-errors that we intend to correct over the coming months as we develop this site:
+
 - postmodernism is anti modernism
 - democratization is actually liberalization
 - you own your body, your mind, and your life.
