@@ -1,8 +1,11 @@
 ---
-title: "Correcting Common Word Games"
+title: Correcting Common Word Games
 subtitle: Now that everyone seems to be aware of the need for true facts, here is how to grasp them - Eliminate these thinking bugs.
 date: 2018-03-03T20:24:29-08:00
 author: "Mark Stouffer"
+tags: 
+  - honesty
+  - lies
 featured_image:
 draft: false
 ---

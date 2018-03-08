@@ -4,6 +4,7 @@ date: 2018-03-01T21:04:07-08:00
 draft: false
 author: Mark Stouffer
 subtitle: Standardized Markdown provides portability.
+series: ["Coding"]
 image: /images/gohugo-default-sample-hero-image.jpg
 tags:
   - tech
@@ -13,10 +14,10 @@ tags:
 
 I love the flexibility of static generated sites. I can create content easily while I also develop the logical structure of the components and their taxonomical relations.
 
-Most of that is provided by Markdown, including the YAML frontmatter. So the static generator just needs to be easy to start and extend, and it also needs to be sustainable.
+Most of that is provided by Markdown, including the YAML front-matter. So the static generator just needs to be easy to start and extend, and it also needs to be sustainable.
 
-It doesn't make sense to invest in learning how to use a static site generator that is not being actively used by a comunity of people. There needs to be an ecosystem (economic system) of active developers and users. DocPad failed on that account. 
+It doesn't make sense to invest in learning how to use a static site generator that is not being actively used by a community of people. There needs to be an ecosystem (economic system) of active developers and users. DocPad failed on that account.
 
 After writing one article in DocPad and then reviewing the community, I realized it was dormant.
 
-Fotunately, because of the portability of MarkDown plain-text syntax, I was able to move my post and drafts directly into another forlder and use a different, actively developed, static site generator: Hugo.
+Fortunately, because of the portability of MarkDown plain-text syntax, I was able to move my post and drafts directly into another folder and use a different, actively developed, static site generator: Hugo.

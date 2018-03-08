@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fakes on NOFA Kingway</title>
+    <link>http://nofakingway.com/fakes/</link>
+    <description>Recent content in Fakes on NOFA Kingway</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 08 Mar 2018 07:30:13 -0800</lastBuildDate>
+    
+	<atom:link href="http://nofakingway.com/fakes/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Democratization or Liberalization</title>
+      <link>http://nofakingway.com/fakes/democratization-or-liberalization/</link>
+      <pubDate>Thu, 08 Mar 2018 07:30:13 -0800</pubDate>
+      
+      <guid>http://nofakingway.com/fakes/democratization-or-liberalization/</guid>
+      <description>It&amp;rsquo;s important what we call things, and one of the most important political/ethical distinctions made in the modern world today is between two different names that we call one thing.</description>
+    </item>
+    
+  </channel>
+</rss>

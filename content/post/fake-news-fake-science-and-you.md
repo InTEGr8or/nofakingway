@@ -4,6 +4,7 @@ subtitle: Even fakers eventually beg for objectivity
 date: 2018-03-02T18:18:44-08:00
 author: "Mark Stouffer"
 image: /images/TheBlueDress.jpg
+series: ["Media"]
 draft: false
 tags: 
   - truth
