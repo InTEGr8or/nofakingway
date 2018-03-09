@@ -63,11 +63,11 @@ googleAnalytics = "UA-115076488-1"
   series = "series"
 
 # Header Menu
-[[menu.main]]
-  name = "Topics"
-  identifier = "topics"
-  url = "/topics/"
-  weight = 1
+# [[menu.main]]
+#   name = "Topics"
+#   identifier = "topics"
+#   url = "/topics/"
+#   weight = 1
 [[menu.main]]
   name = "Tags"
   identifier = "tags"
