@@ -68,11 +68,11 @@ googleAnalytics = "UA-115076488-1"
 #   identifier = "topics"
 #   url = "/topics/"
 #   weight = 1
-[[menu.main]]
-  name = "Tags"
-  identifier = "tags"
-  url = "/tags/"
-  weight = 2
+# [[menu.main]]
+#   name = "Tags"
+#   identifier = "tags"
+#   url = "/tags/"
+#   weight = 2
 # [[menu.main]]
 #   name = "About"
 #   identifier = "about"
@@ -85,3 +85,8 @@ googleAnalytics = "UA-115076488-1"
   weight = 1
   identifier = "about"
   url = "/about/"
+[[menu.footer]]
+  name = "Tags"
+  weight = 2
+  identifier = "tags"
+  url = "/tags/"
