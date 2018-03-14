@@ -6,4 +6,3 @@ featured_image:
 draft: false
 ---
 It's important what we call things, and one of the most important political/ethical distinctions made in the modern world today is between two different names that we call one thing.
-
