@@ -1,8 +1,10 @@
 <div class="container">
 	<section class="main row col-12">
 		{{- range .Page.Sections }}
-		<div class="col-md-3">
-			<h4>{{ .Title }}</h4>
+		<div class="col-md-6">
+			<a href="{{ .Permalink | relURL }}" class="article-titles">
+				<h4>{{ .Title }}</h4>
+			</a>
 			<div>{{ .Content }}</div>
 		</div>
 		{{- end }}
