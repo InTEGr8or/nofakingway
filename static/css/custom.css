@@ -35,3 +35,7 @@ a {
 .terms>ul>li time {
 	color: gray
 }
+
+.breadcrumb{
+	background-color: black;
+}
