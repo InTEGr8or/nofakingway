@@ -7,10 +7,11 @@
 echo -e "\033[0;32mDeploying updates to GitHub...\033[0m"
 
 echo -e "Build the project."
-hugo -t "ananke" # if using a theme, replace with `hugo -t <YOURTHEME>`
+rmdir docs/** -r
+hugo # if using a theme, replace with `hugo -t <YOURTHEME>`
 
 # Go To Public folder
-cd public
+# cd public
 # Add changes to git.
 git add .
 
@@ -22,10 +23,10 @@ fi
 git commit -m "$msg"
 
 # Push source and build repos.
-git push origin master -f
+git push # origin master -f
 
 # Come Back up to the Project Root
-cd ..
+# cd ..
 
 echo -e "Task complete. You may close this window..."
 
