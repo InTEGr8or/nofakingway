@@ -1,17 +1,17 @@
 <header class="site-header">
-	<nav class="site-navi">
-		<h1 class="site-title">
-			<a href='{{ "/" | relURL }}'>
-				{{ .Site.Title }}
-			</a>
-		</h1>
-		<ul class="site-navi-items">
-			{{- range .Site.Menus.main }}
-			<li class="site-navi-item-{{ .Identifier }}">
-				<a href="{{ .URL | safeURL }}" title="{{ .Name }}">{{ .Name }}</a>
-			</li>
+	<nav class="site-navi row col-12">
+		<div class="col-4">
+			<h1 class="site-title">
+				<a href='{{ "/" | relURL }}'>
+					{{ .Site.Params.title }}
+				</a>
+			</h1>
+		</div>
+		<div class="col-8">
+			{{- range .Site.Params.taglines }}
+			<div class="col-8">{{ . }}</div>
 			{{- end }}
-		</ul>
+		</div>
 	</nav>
 </header>
 <hr class="site-header-bottom">
