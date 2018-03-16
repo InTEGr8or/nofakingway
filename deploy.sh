@@ -30,3 +30,5 @@ git push # origin master -f
 # cd ..
 
 printf -e "Task complete. You may close this window..."
+
+chrome "http://nofakingway.com"
