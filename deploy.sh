@@ -31,4 +31,4 @@ git push # origin master -f
 
 printf -e "Task complete. You may close this window..."
 
-chrome "http://nofakingway.com"
+open "http://nofakingway.com"
