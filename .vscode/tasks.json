@@ -4,9 +4,18 @@
 	"version": "2.0.0",
 	"tasks": [
 		{
-			"label": "Deploy",
+			"label": "Build and Deploy Hugo",
 			"type": "shell",
-			"command": "./deploy.sh"
+			"command": "./deploy.sh",
+			"windows": {
+				"command": ".\\deploy.sh"
+			},
+			"group": "build",
+			"presentation": {
+				"reveal": "always",
+				"panel": "new"
+			},
+			"problemMatcher": []
 		}
 	]
 }
