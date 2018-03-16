@@ -14,7 +14,7 @@ googleAnalytics = "UA-115076488-1"
 
 [params]
   title = "NOFA Kingway"
-  taglines = ["A lie is not your aly,", "it is a liability"]
+  taglines = ["A lie is not your aly,", "it is a liability."]
   # Date format
   #dateFormat = "January 2, 2006"
 
