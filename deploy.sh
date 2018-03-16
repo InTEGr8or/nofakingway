@@ -8,6 +8,7 @@ echo -e "\033[0;32mDeploying updates to GitHub...\033[0m"
 
 echo -e "Build the project."
 rmdir docs/** -r
+"nofakingway.com" > docs/CNAME
 hugo # if using a theme, replace with `hugo -t <YOURTHEME>`
 
 # Go To Public folder
@@ -29,5 +30,3 @@ git push # origin master -f
 # cd ..
 
 echo -e "Task complete. You may close this window..."
-
-read
