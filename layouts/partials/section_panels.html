@@ -1,14 +1,16 @@
-<div class="container">
-	<section class="main row">
+<div class="main">
+	<section class="row">
 		{{- range .Page.Sections }}
 		<div class="col-md-6">
-			<a href="{{ .Permalink | relURL }}" class="article-titles">
-				<h4>{{ .Title }}</h4>
-			</a>
-			<p class="lead">
-				{{ .Params.description }}
-			</p>
-			<div>{{ .Content }}</div>
+			<div class="card-body">
+				<a href="{{ .Permalink | relURL }}" class="article-titles">
+					<h4>{{ .Title }}</h4>
+				</a>
+				<p class="lead">
+					{{ .Params.description }}
+				</p>
+				<div>{{ .Summary }}</div>
+			</div>
 		</div>
 		{{- end }}
 	</section>
