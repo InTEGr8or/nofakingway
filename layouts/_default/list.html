@@ -1,4 +1,5 @@
- {{ define "main" }} {{- if eq .Kind "taxonomy" }}
+{{ define "main" }} 
+{{- if eq .Kind "taxonomy" }}
 <div class="breadcrumb">
   <a href="{{ " / " | relURL }}{{ .Data.Plural | urlize }}/">{{ .Data.Plural | humanize }}</a> / {{ .Data.Term | humanize }}
 </div>

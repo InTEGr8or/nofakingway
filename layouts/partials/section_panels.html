@@ -5,6 +5,9 @@
 			<a href="{{ .Permalink | relURL }}" class="article-titles">
 				<h4>{{ .Title }}</h4>
 			</a>
+			<p class="lead">
+				{{ .Params.description }}
+			</p>
 			<div>{{ .Content }}</div>
 		</div>
 		{{- end }}
