@@ -7,6 +7,14 @@
 		{
 			"type": "PowerShell",
 			"request": "launch",
+			"name": "Launch Hugo Server",
+			"script": "${workspaceRoot}/launchHugo.ps1",
+			"args": [],
+			"cwd": "${workspaceRoot}"
+		},
+		{
+			"type": "PowerShell",
+			"request": "launch",
 			"name": "PowerShell Launch Current File",
 			"script": "${file}",
 			"args": [],

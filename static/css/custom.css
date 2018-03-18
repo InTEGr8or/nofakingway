@@ -4,7 +4,7 @@ body {
 }
 
 article h1 {
-	color: rgba(255, 0, 0, 0.74);
+	color: goldenrod;
 }
 
 article h2.article-title {
@@ -36,6 +36,15 @@ a {
 	color: gray
 }
 
-.breadcrumb{
+.breadcrumb {
 	background-color: black;
+}
+
+.version-span {
+	padding-left: 0.3em;
+	font-size: 0.5em;
+	color: goldenrod;
+}
+.site-tag {
+	padding: 10px 0 0 0;
 }
