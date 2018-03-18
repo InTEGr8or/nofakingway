@@ -1,4 +1,5 @@
 theme = "whiteplain"
+domain = "nofakingway.com"
 baseURL = "http://nofakingway.com"
 languageCod = "en-us"
 topics = ["Contradition", "Universal", "Activity"]
