@@ -7,9 +7,9 @@
 # git submodule add -b master git@github.com:InTEGr8or/nofakingway.git public
 # git submodule add -b master git@github.com:InTEGr8or/hugo_blackplain_theme.git layouts
 
-printf -e "\033[0;32mDeploying updates to GitHub...\033[0m"
+printf "\033[0;32mDeploying updates to GitHub...\033[0m"
 
-printf -e "Build the project."
+printf "Build the project."
 rmdir docs/** -r
 rm -rf docs/** 
 
@@ -35,6 +35,6 @@ git push # origin master -f
 # Come Back up to the Project Root
 # cd ..
 
-printf -e "Task complete. You may close this window..."
+printf "Task complete. You may close this window..."
 read
 # open "http://nofakingway.com"
