@@ -23,6 +23,13 @@ a {
 	border: none;
 	padding: 7px 5px 5px 0;
 }
+.card{
+	background-color: #000;
+}
+.card-body{
+	padding-left: 0;
+	background-color: inherit;
+}
 
 .terms {
 	max-width: 300px;
