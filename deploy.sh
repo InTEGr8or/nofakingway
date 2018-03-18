@@ -16,16 +16,23 @@ rm -rf docs/**
 printf "nofakingway.com" > docs/CNAME
 hugo # if using a theme, replace with `hugo -t <YOURTHEME>`
 
-# Go To Public folder
-# cd public
-# Add changes to git.
-git add .
-
-# Commit changes.
 msg="rebuilding site `date`"
 if [ $# -eq 1 ]
   then msg="$1"
 fi
+
+# Go To layouts/ 
+cd layouts
+git add .
+git commit -m "$msg"
+git pull
+git push
+# return to parent folder
+cd ..
+
+# Add changes to git.
+git add .
+# Commit changes.
 git commit -m "$msg"
 
 git pull
