@@ -2,8 +2,7 @@
 title: "Choosing Hugo Over DocPad"
 date: 2018-03-01T21:04:07-08:00
 draft: false
-author: 
-  name: Mark Stouffer
+author: Mark Stouffer
 subtitle: Standardized Markdown provides portability.
 series: ["Coding"]
 image: /images/gohugo-default-sample-hero-image.jpg
