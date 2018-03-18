@@ -1,6 +1,4 @@
-[submodule "themes/ananke"]
-	path = themes/ananke
-	url = https://github.com/budparr/gohugo-theme-ananke.git
-[submodule "public"]
-	path = public
-	url = git@github.com:InTEGr8or/nofakingway.git
+[submodule "layouts"]
+	path = layouts
+	url = git@github.com:InTEGr8or/hugo_blackplain_theme.git
+	branch = master
