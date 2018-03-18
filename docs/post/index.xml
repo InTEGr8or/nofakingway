@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>NOFA Kingway on </title>
-    <link>http://nofakingway.com/</link>
-    <description>Recent content in NOFA Kingway on </description>
+    <title>Posts on </title>
+    <link>http://nofakingway.com/post/</link>
+    <description>Recent content in Posts on </description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Sat, 03 Mar 2018 20:24:29 -0800</lastBuildDate>
     
-	<atom:link href="http://nofakingway.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://nofakingway.com/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -40,16 +40,6 @@ For quite some time the cultural climate has been one of cultural relativism, th
       <description>I love the flexibility of static generated sites. I can create content easily while I also develop the logical structure of the components and their taxonomical relations.
 Most of that is provided by Markdown, including the YAML front-matter. So the static generator just needs to be easy to start and extend, and it also needs to be sustainable.
 It doesn&amp;rsquo;t make sense to invest in learning how to use a static site generator that is not being actively used by a community of people.</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>http://nofakingway.com/about/</link>
-      <pubDate>Wed, 28 Feb 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://nofakingway.com/about/</guid>
-      <description>Is fidelity to truth something you owe other people? Or, rather, is it something of the very highest importance to yourself?
-What is the value of truth? &amp;ldquo;Do you want the truth?&amp;rdquo; This question is often used as a caricature of poorly written dialogue in movies and TV. Of course people want the truth, the criticism goes. At some point, at some level, every person realizes that they want the truth.</description>
     </item>
     
     <item>
