@@ -4,6 +4,6 @@ description: Static text generated web sites, like this one, are relatively new 
 ---
 ## Standardization
 
-As I develope this site, first in Docpad then in Hugo, I can see an abstraction of text change.
+As I develop this site, first in Docpad then in Hugo, I can see an abstraction of text change.
 
 - Everything in the Content folder should be portable from one Static Gen framework to another.
