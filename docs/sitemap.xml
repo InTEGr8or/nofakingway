@@ -18,7 +18,7 @@
   </url>
   
   <url>
-    <loc>http://nofakingway.com/post/choosing-hugo-over-docpad/</loc>
+    <loc>http://nofakingway.com/static-text-generation/choosing-hugo-over-docpad/</loc>
     <lastmod>2018-03-01T21:04:07-08:00</lastmod>
   </url>
   
@@ -28,7 +28,7 @@
   </url>
   
   <url>
-    <loc>http://nofakingway.com/post/developing-in-docpad/</loc>
+    <loc>http://nofakingway.com/static-text-generation/developing-in-docpad/</loc>
     <lastmod>2018-02-19T19:39:35-08:00</lastmod>
   </url>
   
@@ -102,6 +102,11 @@
     <loc>http://nofakingway.com/tags/standards/</loc>
     <lastmod>2018-03-01T21:04:07-08:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://nofakingway.com/static-text-generation/</loc>
+    <lastmod>2018-03-01T21:04:07-08:00</lastmod>
   </url>
   
   <url>
