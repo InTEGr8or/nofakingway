@@ -7,6 +7,7 @@ featured_image:
 draft: false
 ---
 
+
 ## Personal Perspective
 
 All of this has a single implication for each and every individual, and that is the following question:

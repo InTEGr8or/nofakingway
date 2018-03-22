@@ -23,10 +23,10 @@ googleAnalytics = "UA-115076488-1"
   name = "Mark Stouffer"
   email = "mark@nofakingway.com"
   # Gravatar or Abatar image
-  # gravatar = "Gravatar email or MD5 Hash"
-  #avatar = "/path/to/avatar"
+  gravatar = "admin@thefullertonian.com"
+  # avatar = "/path/to/avatar"
 
-#   twitter = "Twitter username"
+  twitter = "ValueCritic"
 #   facebook = "Facebook username"
 #   googleplus = "Googleplus username"
 #   instagram = "Instagram username"
