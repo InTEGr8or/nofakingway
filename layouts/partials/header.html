@@ -1,21 +1,21 @@
 <header class="site-header">
 	<nav class="site-navi">
-<div class="row col-12">
+		<div class="row col-12">
 
-		<div class="col-5">
-			<h1 class="site-title">
-				<a href='{{ "/" | relURL }}' style="float: left;">
-					{{ .Site.Params.title }}
-				</a>
-				<span class="version-span">Beta</span>
-			</h1>
-		</div>
-		<div class="col-7 site-tag">
+			<div class="col-5">
+				<h1 class="site-title">
+					<a href='{{ "/" | relURL }}' style="float: left;">
+						{{ .Site.Params.title }}
+					</a>
+					<span class="version-span">{{ .Site.Params.version }}</span>
+				</h1>
+			</div>
+			<div class="col-7 site-tag">
 				{{- range .Site.Params.taglines }}
 				<div class="col-12">{{ . }}</div>
 				{{- end }}
+			</div>
 		</div>
-	</div>
-</nav>
+	</nav>
 </header>
 <hr class="site-header-bottom">
