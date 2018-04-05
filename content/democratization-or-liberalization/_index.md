@@ -29,4 +29,12 @@ It's also demonstratably false. The contradiction is not superficial, and yet it
 
 ### Democracy
 
-The democratic process, as it is commonly understood and used, is a process of "one person one vote". 
+The democratic process, as it is commonly understood and used, is a process of "one person one vote". Wikipedia defines democracy as:
+
+There is a crisis of democracy in thought and ideas. Intellectualists publish articles like [Changing algorithm of democracy - The Express Tribune](https://tribune.com.pk/story/1677506/6-changing-algorithm-democracy/)
+
+[Facebook used to be a democracy — but nobody voted](https://www.theverge.com/2018/4/5/17176834/mark-zuckerberg-facebook-democracy-governance-vote-failure)
+
+[Opinion | ‘Democracy’ Still Matters](https://www.nytimes.com/2018/04/05/opinion/hungary-viktor-orban-populism.html)
+
+
