@@ -16,3 +16,17 @@ How would you rather be influenced by society:
 
 1. Social influence is applied when you have to coordinate and integrate your life with other people. You decide if the arrangement would be beneficial, and they decide if it would be beneficial for them. No one can predict the outcome with certainty, but the self-interested, first-hand observers have the most detailed information and have self-evident, self-justified interest.
 2. Public vote contest decides how you will be integrated with society, taking into account any variety of political concerns, but certainly not all possible political concerns. It will probably just take into account the most loudly promoted, or politically influential concerns at the time, such as those pertaining to recently identified social ills, or the ones that were most traumatic for the intellectual elites.
+
+## Modern Left
+
+There is a broad-spectrum error or fault running so deeply through the modern left that is has extended also almost all the way through the modern right: domocratization as self-control.
+
+It doesn't even make sense when you say it so boldly, but it is hidden in myriad common phrases. "The democratization of printing", "the democratization of computers", "the democratization of investing", "the democratization of publication". I read about a book a week that contains this type of statement. Almost any book you read about social improvements will contain some similar phrase.
+
+The problem is that the phrase is completely wrong and diametrically opposed to the social innovation each writer is trying to identify as a social good. At the very heart of the identification they are attempting to make lies a contradiction. That's not good, and it is universally widespread, and it has had and is having long-term and wide-ranging negative consequences on societies all over the world.
+
+It's also demonstratably false. The contradiction is not superficial, and yet it has been missed and overlooked, or perhaps even willfully evaded by the broadest range of academic intellectuals. Let's investigate further.
+
+### Democracy
+
+The democratic process, as it is commonly understood and used, is a process of "one person one vote". 
