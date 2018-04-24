@@ -1,7 +1,7 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
-author: "Mark Stouffer"
+author: {{ .Site.Params.author.name }
 featured_image:
 draft: true
 ---

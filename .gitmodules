@@ -1,8 +1,4 @@
-[submodule "layouts"]
-	path = layouts
-	url = https://github.com/inTEGr8or/hugo_blackplain_theme.git
-	branch = master
-[submodule "themes/whiteplain"]
-	path = themes/whiteplain
-	url = https://github.com/taikii/whiteplain.git
+[submodule "themes/blackplain"]
+	path = themes/blackplain
+	url = https://github.com/InTEGr8or/hugo_blackplain_theme.git
 	branch = master
