@@ -1,4 +1,4 @@
-theme = "whiteplain"
+theme = "blackplain"
 baseURL = "http://nofakingway.com"
 languageCode = "en-us"
 copyright = "This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License."
