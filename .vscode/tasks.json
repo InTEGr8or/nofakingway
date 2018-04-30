@@ -6,9 +6,9 @@
 		{
 			"label": "Build and Deploy Hugo",
 			"type": "shell",
-			"command": "./deploy.sh",
+			"command": "./hugo_deploy.sh",
 			"windows": {
-				"command": ".\\deploy.sh"
+				"command": ".\\hugo_deploy.sh"
 			},
 			"group": "build",
 			"presentation": {
