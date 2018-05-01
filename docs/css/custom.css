@@ -1,0 +1,60 @@
+body {
+	color: rgba(144, 238, 144, 0.74);
+	background-color: #000;
+}
+
+article {
+	clear: both;
+}
+article h1 {
+	color: goldenrod;
+}
+
+article h2.article-title {
+	color: rgb(130, 160, 255);
+}
+
+a {
+	color: lightskyblue;
+}
+
+.article-meta-tags {
+	color: rgba(255, 255, 0, 0.692);
+}
+
+.article img {
+	border: none;
+	padding: 7px 5px 5px 0;
+}
+.card{
+	background-color: #000;
+}
+.card-body{
+	padding-left: 0;
+	background-color: inherit;
+}
+
+.terms {
+	max-width: 300px;
+}
+
+.terms>ul>li {
+	border: none;
+}
+
+.terms>ul>li time {
+	color: gray
+}
+
+.breadcrumb {
+	background-color: black;
+}
+
+.version-span {
+	padding-left: 0.3em;
+	font-size: 0.5em;
+	color: goldenrod;
+}
+.site-tag {
+	padding: 10px 0 0 0;
+}
