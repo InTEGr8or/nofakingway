@@ -27,3 +27,9 @@ These are some of the thinking-errors that we intend to correct over the coming 
   - A single task can be carried out with perfection, but not forever.
 - "Antifa" are not anti-fascist, but pro-socialist.
 	- They boast that they are hard on Hitler-types, with "punch a Nazi in the face", but they are soft on Stalin-types, and socialist history itself.
+
+## Dimensions, Differentiation, and Coordinates
+
+We live in a time of great political and cultural upheaval. It hasn't lead to battle lines, fortunately, because the opposing forces are so mingled within societies, but the conflicting ideals are clashing accross many minor lines of skirmish.
+
+What is causing the conflict? It is a confusion sewn long ago. 
