@@ -61,12 +61,20 @@ These are some of the thinking-errors that we intend to correct over the coming 
 
 --
 
-- you will never have free time.
+- You will never have free time.
+
+    TIME    |   COST
+ ---------- | --------
+ life       | deadline
+ hapiness   | interest
+ prosperity | endeavor
+ Weekend    | Weekday
+ Betterment | Minute
 
 --
 
 - All intelligence is artificial intelligence.
-  - People make thinking errors. They think "poop smell - air freshener = less poop smell", when really it's "poop smell + air freshener = poop smell +air freshener". It's like a poop bouquet. A poopourri. Thinking is a process which must be managed and error checked. #thinkingerrors
+  - People make thinking errors. They think "poop smell - air freshener = less poop smell", when really it's "poop smell + air freshener = poop smell + air freshener". It's like a poop bouquet. A poopourri. Thinking is a process which must be managed and error checked. #thinkingerrors
   - Thinking is a process which must be managed and error checked. It is a technology. There is nothing natural about it. It is man-made. That's why we go through the process of education. All intelligence is artificial intelligence. #thinkingerrors
 
 --
