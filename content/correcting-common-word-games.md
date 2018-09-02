@@ -1,9 +1,13 @@
 ---
-theme: "black"
+revealjs:
+  theme: "black"
+  data-background: "#000000"
+  transition: "slide"
 title: Correcting Common Word Games
 subtitle: Now that everyone seems to be aware of the need for true facts, here is how to grasp them - Eliminate these thinking bugs.
 description: test
-transition: "zoom"
+
+
 date: "2018-03-03 20:24:29-08:00"
 author: "Mark Stouffer"
 tags:
@@ -26,6 +30,7 @@ These are some of the thinking-errors that we intend to correct over the coming 
 - postmodernism is anti modernism
 
 ---
+<!-- .slide: data-background="#000000" -->
 
 - Democratization is actually liberalization
 
@@ -33,15 +38,15 @@ These are some of the thinking-errors that we intend to correct over the coming 
 
 ---
 
-- you own your body, your mind, and your life.
+- You own your body, your mind, and your life.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M9srplWe_QQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ---
 
-- no one has ever taken a life.
+- No one has ever taken a life.
 
-  --
-
-  - Find someone who claims to or is reported to have taken a life. Ask them to show you the other life, not their own life, but the life that they took.
+> - Find someone who claims to or is reported to have taken a life. Ask them to show you the other life, not their own life, but the life that they took.
 
   --
 
@@ -49,15 +54,19 @@ These are some of the thinking-errors that we intend to correct over the coming 
 
   --
 
-  "Taking a life" is a beautification and a euphemism for what the person has actually done, which is destroy a life. That's all they've done.
+  - "Taking a life" is a beautification and a euphemism for what the person has actually done, which is destroy a life. That's all they've done.
 
   --
 
-  They have simply destroyed a human life. It's a much more offensive and disgusting thing that they have done than "taking a life" makes it sound like, which is already bad enough. When a theif steals money he at least has the money he stole. A life destroyer can make no such claim.
+  They have simply destroyed a human life. It's a much more offensive and disgusting thing that they have done than "taking a life" makes it sound like, which is already bad enough.
 
   --
 
-  - serial killers do not achieve control over their victims.
+  - When a theif steals money he at least has the money he stole. A life destroyer can make no such claim.
+
+  --
+
+  - Serial killers do not achieve control over their victims.
 
 --
 
