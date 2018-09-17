@@ -36,6 +36,8 @@ These are some of the thinking-errors that we intend to correct over the coming 
 
 ~~Democratization~~ --> Liberalization
 
+[More details...](/content/democratization-or-liberalization)
+
 ---
 
 - You own your body, your mind, and your life.
