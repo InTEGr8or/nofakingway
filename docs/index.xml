@@ -5,6 +5,8 @@
     <link>http://nofakingway.com/</link>
     <description>Recent content in NOFA Kingway on </description>
     <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.</copyright>
     <lastBuildDate>Sat, 03 Mar 2018 20:24:29 -0800</lastBuildDate>
     
 	<atom:link href="http://nofakingway.com/index.xml" rel="self" type="application/rss+xml" />
@@ -16,8 +18,9 @@
       <pubDate>Sat, 03 Mar 2018 20:24:29 -0800</pubDate>
       
       <guid>http://nofakingway.com/correcting-common-word-games/</guid>
-      <description>These are some of the thinking-errors that we intend to correct over the coming months as we develop this site:
- postmodernism is anti modernism democratization is actually liberalization you own your body, your mind, and your life. no one has ever taken a life.  Find someone who claims to or is reported to have taken a life. Ask them to show you the other life, not their own life, but the life that they took.</description>
+      <description>Correcting Common Word Games The political landscape today is presented as an ever-changing battlefield between opposing factions, or &amp;ldquo;identity groups&amp;rdquo;. What is needed is not more opposing groups, but a differentiation of ideals.
+Sign Posts These are some of the thinking-errors that we intend to correct over the coming months as we develop this site:
+ postmodernism is anti modernism   Democratization is actually liberalization  Democratization &amp;ndash;&amp;gt; Liberalization</description>
     </item>
     
     <item>
@@ -61,6 +64,15 @@ What is the value of truth? &amp;ldquo;Do you want the truth?&amp;rdquo; This qu
       <description>I&amp;rsquo;ve started developing in Docpad because I love lo-fi text-only documentation. This CMS uses folder structure and tags for site hierarchy and is very flexible. The MarkDown is transpiled into html and I can use a variety of templating languages for the layout components.
 I&amp;rsquo;m going under the assumption that this will all provide maximal flexibility while I am actively creating content.
 Lo-fi Conceptual Representations I write a lot of notes every single day in MarkDown and yaml.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://nofakingway.com/correcting-common-word-games-export/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://nofakingway.com/correcting-common-word-games-export/</guid>
+      <description>RevealJS : d:\T3\Git\nofakingway_hugo\content\correcting-common-word-games.md  document.write( &#39;&#39; );  @page { margin: 0; size: auto; }   if(window.location.search.match( /print-pdf-now/gi )) { window.print(); }    # Correcting Common Word GamesThe political landscape today is presented as an ever-changing battlefield between opposing factions, or &#34;identity groups&#34;. What is needed is not more opposing groups, but a differentiation of ideals.## Sign PostsThese are some of the thinking-errors that we intend to correct over the coming months as we develop this site:- postmodernism is anti modernism- Democratization is actually liberalization~~Democratization~~ -- Liberalization- you own your body, your mind, and your life.</description>
     </item>
     
   </channel>

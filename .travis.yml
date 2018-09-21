@@ -1,11 +1,25 @@
-# Install the apt prerequisites
-addons:
-  apt:
-    packages:
-      - python-pygments
-# Clean and don't fail
+# language: python
+
 install:
-  - rm -rf public || exit 0
-# Build the website
+    - wget https://github.com/gohugoio/hugo/releases/download/v0.39/hugo_0.39_Linux-64bit.deb
+    - sudo dpkg -i hugo*.deb
+    # - pip install Pygments
+
 script:
-  - binaries/hugo --theme=whiteplain
+    - git checkout master
+    # - git submodule update --init --recursive
+    - rm -rf docs
+    - hugo
+    - rm -r hugo_0*.deb
+    - baseURL=$(cat config.toml | grep baseURL | awk '{print $3}' | tr -d \")
+    - echo $baseURL
+    - printf $baseURL > docs/CNAME
+
+after_success:
+    - git add --force docs/
+    - git -c user.name='travis' -c user.email='travis' commit -m "travis build `date`"
+    - githubURL=$(cat config.toml | grep githubURL | awk '{print $3}' | tr -d \")
+    - echo $githubURL
+    - pushPath=${githubURL/https:*github.com/https://$GH_TOKEN@github.com}
+    - echo $pushPath
+    - git push $pushPath master

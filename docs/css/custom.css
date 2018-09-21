@@ -3,6 +3,9 @@ body {
 	background-color: #000;
 }
 
+article {
+	clear: both;
+}
 article h1 {
 	color: goldenrod;
 }
@@ -54,4 +57,12 @@ a {
 }
 .site-tag {
 	padding: 10px 0 0 0;
+}
+.position {
+	padding-right: 5em;
+	padding-bottom: 10px;
+}
+.opposition {
+	padding-left: 5em;
+	padding-bottom: 10px;
 }
