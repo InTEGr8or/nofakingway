@@ -2,7 +2,7 @@
 title: "Democratization or Liberalization"
 date: 2018-03-08T07:30:13-08:00
 author: "Mark Stouffer"
-description: It's important what we call things, and one of the most important political/ethical distinctions made in the modern world today is between two different names that we call one thing.
+description: It's important what we call things, and one of the most important politicdal/ethical distinctions made in the modern world today is between two different names that we call one thing.
 featured_image:
 draft: false
 ---
@@ -37,4 +37,7 @@ There is a crisis of democracy in thought and ideas. Intellectualists publish ar
 
 [Opinion | ‘Democracy’ Still Matters](https://www.nytimes.com/2018/04/05/opinion/hungary-viktor-orban-populism.html)
 
+To many who admire the progress Western culture has made over the last 250 years, democracy is an engine of innovation and societal betterment. It is taken for granted as a social good.
+
+But democracy is sold in one form and delivered in another. Democracy is a lost-leader. It is a shell-game, a hoax, a product of false advertisement.
 
