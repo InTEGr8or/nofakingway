@@ -1,3 +1,4 @@
+
 # Excluded Middle Whiteboard
 
 |   Democratization   |  Liberalization   |
@@ -8,6 +9,17 @@
 | Race Law            | Abolishonism      |
 | Production          |                   |
 | Plantations/Slavery | Liberated Markets |
+
+## In the News
+
+* The Atlantic, "Is Democracy Dying", special issue, 2018-10
+* Noam Chomsky, America's foremost intellectual, Democracy threatened by liberalism.
+* Some recent books.
+
+## Variations and Distinctions
+
+* Variations on democracy involve the myriad ways that control or accountability can be given to the public, or voting public, or demos, but the main feature is that it is distributed broadly based on population, or some section of the population. Control over who gets what and why is distributed among residents, or people who occupy and area, or registered citizens. Whatever the arrangement, it is political and it is not based on the owners of the property that is being distributed.
+* Liberalism is based on property, so goods and services are established as property belonging to an individual, or a portion of which is established as property of an individual. From then on it is that owner who decides on what terms the ownership will be transfered to another.
 
 ## Products of Liberalized Markets
 

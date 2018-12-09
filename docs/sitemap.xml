@@ -3,6 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://nofakingway.com/books/</loc>
+    <lastmod>2018-10-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://nofakingway.com/tweets/</loc>
+    <lastmod>2018-09-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://nofakingway.com/democratization-or-liberalization/</loc>
     <lastmod>2018-03-08T07:30:13-08:00</lastmod>
   </url>
@@ -33,7 +43,15 @@
   </url>
   
   <url>
-    <loc>http://nofakingway.com/correcting-common-word-games-export/</loc>
+    <loc>http://nofakingway.com/democratization-or-liberalization/misinformed-democratization/</loc>
+  </url>
+  
+  <url>
+    <loc>http://nofakingway.com/democratization-or-liberalization/whiteboard/</loc>
+  </url>
+  
+  <url>
+    <loc>http://nofakingway.com/ai-algorithms-vs-natural-intelligence/</loc>
   </url>
   
   <url>
