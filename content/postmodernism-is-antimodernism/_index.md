@@ -6,4 +6,6 @@ Inaccurate word usage is highly corrupting, but it is a favorite tool of anti-mo
 
 They realize how weak their case would be even to a superficial observer, if they had to use logic to refute logic, so instead they resort to the goal of corrupting logic itself.
 
-One of the attacks on logic is the theory of "historical materialism".
+One of the attacks on logic is the theory of "historical materialism", which holds that progress occurs as a natural progression caused by the gradual accumilation of technoligical capital goods, or "factors of production".
+
+It's a commonly accepted theory, and it is wrong.
