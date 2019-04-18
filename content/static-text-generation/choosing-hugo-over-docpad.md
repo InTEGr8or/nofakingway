@@ -1,15 +1,13 @@
 ---
-title: "Choosing Hugo Over DocPad"
-date: 2018-03-01T21:04:07-08:00
-draft: false
 author: Mark Stouffer
-subtitle: Standardized Markdown provides portability.
-series: ["Coding"]
+date: 2018-03-02 05:04:07
+draft: false
 image: /images/gohugo-default-sample-hero-image.jpg
-tags:
-  - tech
-  - stack
-  - standards
+path: /static-text-generation/choosing-hugo-over-docpad
+series: [Coding]
+subtitle: Standardized Markdown provides portability.
+tags: [tech, stack, standards]
+title: Choosing Hugo Over DocPad
 ---
 
 I love the flexibility of static generated sites. I can create content easily while I also develop the logical structure of the components and their taxonomical relations.

@@ -1,11 +1,12 @@
 ---
-title: "Developing in Docpad"
-subtitle: The centrality of human-readable text
-date: 2018-02-19T19:39:35-08:00
-draft: false
 author: Mark Stouffer
-series: [Coding]
+date: 2018-02-20 03:39:35
+draft: false
 featured_image: http://placehold.it/900x250
+path: /static-text-generation/developing-in-docpad
+series: [Coding]
+subtitle: The centrality of human-readable text
+title: Developing in Docpad
 ---
 
 I've started developing in Docpad because I love lo-fi text-only documentation. This CMS uses folder structure and tags for site hierarchy and is very flexible. The MarkDown is transpiled into html and I can use a variety of templating languages for the layout components.

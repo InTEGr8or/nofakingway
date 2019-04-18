@@ -1,23 +1,20 @@
 ---
-path: "/correcting-common-word-games"
-revealjs:
-  theme: "reveal-hugo"
-  data-background: #000000
-  transition: "slide"
-title: Correcting Common Word Games
-subtitle: Now that everyone seems to be aware of the need for true facts, here is how to grasp them - Eliminate these thinking bugs.
+author: Mark Stouffer
+data-background: null
+date: '2018-03-03 20:24:29-08:00'
 description: Distinguishing between ideas
-theme: black
-data-background: #000000
-
-
-date: "2018-03-03 20:24:29-08:00"
-author: "Mark Stouffer"
-tags:
-  - honesty
-  - lies
-featured_image:
 draft: false
+featured_image: null
+path: /correcting-common-word-games
+revealjs: null
+data-background: null
+theme: reveal-hugo
+transition: slide
+subtitle: Now that everyone seems to be aware of the need for true facts, here is
+  how to grasp them - Eliminate these thinking bugs.
+tags: [honesty, lies]
+theme: black
+title: Correcting Common Word Games
 ---
 
 The political landscape today is presented as an ever-changing battlefield between opposing factions, or "identity groups". What is needed is not more opposing groups, but a better differentiation of ideals.

@@ -1,8 +1,8 @@
 ---
+description: 'Static text generated web sites, like this one, are relatively new but exhibit a model for an understanding of change that should be studied.'
+path: /static-text-generation/_index
 title: Static Text Generation
-description: Static text generated web sites, like this one, are relatively new but exhibit a model for an understanding of change that should be studied.
 ---
-
 ## Standardization
 
 As I develop this site, first in Docpad then in Hugo, I can see an abstraction of text change.
