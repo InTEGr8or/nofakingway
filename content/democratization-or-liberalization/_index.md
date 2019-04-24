@@ -41,3 +41,9 @@ To many who admire the progress Western culture has made over the last 250 years
 
 But democracy is sold in one form and delivered in another. Democracy is a lost-leader. It is a shell-game, a hoax, a product of false advertisement.
 
+## Corbet Report
+
+https://youtu.be/0Zd3j5lZTMg
+
+Corbet identifies the total negetion of the vote, and accusations of "populism" wich reveal elites distaste for the popular vote, even though they claim it's what gives them the right to rule.
+
