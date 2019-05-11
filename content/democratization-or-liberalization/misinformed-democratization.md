@@ -1,7 +1,7 @@
 ---
 title: Misinformed Democratization
 date: 2018-03-08
-path: democratization-or-liberalization
+path: /democratization-or-liberalization/misinformed-democratization
 ---
 
 # Misinformed Democratization

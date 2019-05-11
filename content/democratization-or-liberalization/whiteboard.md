@@ -1,6 +1,6 @@
 ---
 title: Excluded Middle Whiteboard
-path: Democratization-or-liberalization
+path: /democratization-or-liberalization/whiteboard
 date: 2018-03-08
 ---
 

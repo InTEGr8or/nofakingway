@@ -4,7 +4,7 @@ date: '2018-03-08 15:30:13'
 description: 'It''s important what we call things, and one of the most important politicdal/ethical distinctions made in the modern world today is between two different names that we call one thing.'
 draft: false
 featured_image: null
-path: /democratization-or-liberalization/_index
+path: /democratization-or-liberalization
 title: Democratization or Liberalization
 ---
 
