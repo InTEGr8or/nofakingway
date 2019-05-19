@@ -2,14 +2,18 @@ import React from "react"
 import { Link } from "gatsby"
 
 const PostLink = ({ post }) => (
-  <li>
-    <Link to={post.frontmatter.path}>
-      {post.frontmatter.title}
-    </Link>
-    <p>
-      {post.excerpt}
-    </p>
-  </li>
+  <>
+    <dt>
+      <Link to={post.frontmatter.path}>
+        {post.frontmatter.title}
+      </Link>
+    </dt>
+    <dd>
+      <p>
+        {post.excerpt}
+      </p>
+    </dd>
+  </>
 )
 
 export default PostLink

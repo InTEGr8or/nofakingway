@@ -1,6 +1,10 @@
-import React from "react"
-import { graphql } from "gatsby"
-import PostLink from "../components/post-link"
+/* jshint esversion: 6 */
+import React from "react";
+import { graphql } from "gatsby";
+import PostLink from "../components/post-link";
+import { Link } from "gatsby";
+import Layout from "../components/layout";
+import SEO from "../components/seo"
 
 const IndexPage = ({
   data: {
@@ -10,8 +14,12 @@ const IndexPage = ({
   const Posts = edges
     .filter(edge => !!edge.node.frontmatter.date) // You can filter your posts based on some criteria
     .map(edge => <PostLink key={edge.node.id} post={edge.node} />);
-
-  return <ul>{Posts}</ul>
+  return <Layout>
+    <SEO title="Home page" />
+    <h1>nofakingway.com</h1>
+    <dl>{Posts}</dl>
+    <Link to="/">Go back to the homepage</Link>
+  </Layout>
 }
 
 export default IndexPage
