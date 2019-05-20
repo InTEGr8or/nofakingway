@@ -15,8 +15,8 @@ const IndexPage = ({
     .filter(edge => !!edge.node.frontmatter.date) // You can filter your posts based on some criteria
     .map(edge => <PostLink key={edge.node.id} post={edge.node} />);
   return <Layout>
-    <SEO title="Home page" />
-    <h1>nofakingway.com</h1>
+    <SEO title="Home" />
+    <h1>Cultural Guideposts</h1>
     <dl>{Posts}</dl>
     <Link to="/">Go back to the homepage</Link>
   </Layout>
