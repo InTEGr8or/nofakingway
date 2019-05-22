@@ -1,3 +1,4 @@
+/* jshint esversion: 6 */
 module.exports = {
   siteMetadata: {
     title: `NOFAKingway.com`,
@@ -19,6 +20,12 @@ module.exports = {
       options: {
         path: `${__dirname}/content`,
         name: "markdown-pages",
+      },
+    },
+    {
+      resolve: `gatsby-plugin-typography`,
+      options: {
+        pathToConfigModule: `src/utils/typography`,
       },
     },
     `gatsby-transformer-sharp`,

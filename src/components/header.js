@@ -17,9 +17,9 @@ const Header = ({ siteTitle }) => (
         padding: `1.45rem 1.0875rem`,
       }}
     >
-      <a href="/"><img src={siteLogo} alt="site-logo" width="300px" style={{
-        marginBottom: `0px`
-      }}/></a>
+      <a href="/">
+        <img src={siteLogo} alt="site-logo" width="300px" style={{marginBottom: `0px`}}/>
+      </a>
 
       <h1 style={{ margin: 0 }}>
         <Link
