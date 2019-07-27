@@ -19,7 +19,7 @@ googleAnalytics = "UA-115076488-1"
   taglines = ["A lie is not your aly,", "it is a liability."]
   version = "beta"
   githubURL = "https://github.com/integr8or/nofakingway_hugo"
-  logo="images/nofakingway.jpg"
+  logo="images/nofakingway-250xauto.jpg"
 
   # Date format
   #dateFormat = "January 2, 2006"
