@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.</copyright>
-    <lastBuildDate>Fri, 21 Dec 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jul 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://nofakingway.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Questioning Socialism</title>
+      <link>http://nofakingway.com/books/the_house_of_government/questioning-socialism/</link>
+      <pubDate>Sun, 28 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://nofakingway.com/books/the_house_of_government/questioning-socialism/</guid>
+      <description>When the ideals of socialism start to actually be implement their internal contradictions become alarming. Even devout advocates of socialism start to question the direction those ideals point.
+https://en.wikipedia.org/wiki/Nikolai_Bukharin</description>
+    </item>
     
     <item>
       <title>20181221</title>
@@ -76,6 +86,15 @@ What is the value of truth? &amp;ldquo;Do you want the truth?&amp;rdquo; This qu
       <description>I&amp;rsquo;ve started developing in Docpad because I love lo-fi text-only documentation. This CMS uses folder structure and tags for site hierarchy and is very flexible. The MarkDown is transpiled into html and I can use a variety of templating languages for the layout components.
 I&amp;rsquo;m going under the assumption that this will all provide maximal flexibility while I am actively creating content.
 Lo-fi Conceptual Representations I write a lot of notes every single day in MarkDown and yaml.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://nofakingway.com/books/the_house_of_government/link/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://nofakingway.com/books/the_house_of_government/link/</guid>
+      <description> affiliate link </description>
     </item>
     
     <item>
