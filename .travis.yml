@@ -19,11 +19,20 @@ script:
     - echo $baseURL
     - printf $baseURL > docs/CNAME
 
+deploy:
+  provider: pages
+  skip_cleanup: true
+  github_token: $GH_TOKEN  # Set in the settings page of your repository, as a secure variable
+  keep_history: true
+  on:
+    branch: master
+
 after_success:
     - git add --force docs/
     - git -c user.name='travis' -c user.email='travis' commit -m "travis build `date`"
     - githubURL=$(cat config.toml | grep githubURL | awk '{print $3}' | tr -d \")
     - echo $githubURL
+    - echo $GH_TOKEN
     - pushPath=${githubURL/https:*github.com/https://$GH_TOKEN@github.com}
     - echo $pushPath
-    - git push $pushPath master
+    # - git push $pushPath master
