@@ -8,7 +8,10 @@ install:
 script:
     - git checkout master
     # - git submodule update --init --recursive
-    - rm -rf docs/
+    - rm -rf docs
+    - if [ -d 'docs']; then
+        echo "stupid docs/ didn't remove"
+      fi
     # - hugo
     - rm -r hugo_0*.deb
     - baseURL=$(cat config.toml | grep baseURL | awk '{print $3}' | tr -d \")
