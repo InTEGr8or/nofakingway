@@ -11,11 +11,15 @@ article h1 {
 }
 
 article h2.article-title {
-	color: rgb(130, 160, 255);
+	color:#663399;
 }
 
 a {
 	color: lightskyblue;
+}
+
+#page-content h2{
+	color: #663399
 }
 
 .article-meta-tags {
