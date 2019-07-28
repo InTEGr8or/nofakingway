@@ -33,6 +33,6 @@ after_success:
     - githubURL=$(cat config.toml | grep githubURL | awk '{print $3}' | tr -d \")
     - echo $githubURL
     - echo $GH_TOKEN
-    - pushPath=${githubURL$GH_TOKEN}
+    - pushPath=${githubURL}
     - echo $pushPath
-    # - git push $pushPath master
+    - git push $pushPath master
