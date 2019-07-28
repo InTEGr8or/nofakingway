@@ -19,13 +19,13 @@ script:
     - echo $baseURL
     - printf $baseURL > docs/CNAME
 
-deploy:
-  provider: pages
-  skip_cleanup: true
-  github_token: $GH_TOKEN  # Set in the settings page of your repository, as a secure variable
-  keep_history: true
-  on:
-    branch: master
+# deploy:
+#   provider: pages
+#   skip_cleanup: true
+#   github_token: $GH_TOKEN  # Set in the settings page of your repository, as a secure variable
+#   keep_history: true
+#   on:
+#     branch: master
 
 after_success:
     - git add --force docs/
@@ -33,6 +33,6 @@ after_success:
     - githubURL=$(cat config.toml | grep githubURL | awk '{print $3}' | tr -d \")
     - echo $githubURL
     - echo $GH_TOKEN
-    - pushPath=${githubURL/https:*github.com/https://$GH_TOKEN@github.com}
+    - pushPath=${githubURL$GH_TOKEN}
     - echo $pushPath
     # - git push $pushPath master
