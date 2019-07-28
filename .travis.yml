@@ -7,7 +7,7 @@ install:
 
 script:
     - git checkout master
-    - git submodule update --init --recursive
+    # - git submodule update --init --recursive
     - rm -rf docs
     # - hugo
     - rm -r hugo_0*.deb
