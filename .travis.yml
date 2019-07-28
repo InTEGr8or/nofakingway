@@ -9,8 +9,8 @@ script:
     - git checkout master
     # - git submodule update --init --recursive
     - rm -rf docs
-    - if [ -d 'docs']; then
-        echo "stupid docs/ didn't remove"
+    - if [ -d "docs"]; then
+        echo "stupid docs didn't remove"
       fi
     # - hugo
     - rm -r hugo_0*.deb
