@@ -32,7 +32,7 @@ after_success:
     - git -c user.name='travis' -c user.email='travis' commit -m "travis build `date`"
     - githubURL=$(cat config.toml | grep githubURL | awk '{print $3}' | tr -d \")
     - echo $githubURL
-    - echo $GH_TOKEN
+    - echo $GITHUB_TOKEN
     - pushPath=${githubURL}
     - echo $pushPath
     # - git push $pushPath master
