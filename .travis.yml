@@ -7,9 +7,9 @@ install:
 
 script:
     - git checkout master
-    # - git submodule update --init --recursive
+    - git submodule update --init --recursive
     - rm -rf docs
-    - hugo
+    # - hugo
     - rm -r hugo_0*.deb
     - baseURL=$(cat config.toml | grep baseURL | awk '{print $3}' | tr -d \")
     - echo $baseURL
