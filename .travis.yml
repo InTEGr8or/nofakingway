@@ -12,11 +12,11 @@ script:
     - if [ -d "docs"]; then
         echo "stupid docs didn't remove"
       fi
-    # - hugo
+    - hugo
     - rm -r hugo_0*.deb
     - baseURL=$(cat config.toml | grep baseURL | awk '{print $3}' | tr -d \")
     - echo $baseURL
-    # - printf $baseURL > docs/CNAME
+    - printf $baseURL > docs/CNAME
 
 after_success:
     - git add --force docs/
