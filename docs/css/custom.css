@@ -10,8 +10,8 @@ article h1 {
 	color: goldenrod;
 }
 
-article h2.article-title {
-	color:#663399;
+article .article-title {
+	color:#7080a0;
 }
 
 a {
@@ -36,6 +36,11 @@ a {
 .card-body{
 	padding-left: 0;
 	background-color: inherit;
+}
+
+.article-titles{
+	display: block;
+	color: darkgoldenrod;
 }
 
 .terms {
