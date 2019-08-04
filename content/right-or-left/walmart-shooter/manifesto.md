@@ -4,6 +4,8 @@ date: Sat Aug 03 2019 22:31:51 ET
 draft: false
 ---
 
+[Source MANIFESTO](https://drudgereport.com/flashtx.htm)
+
 ## The Inconvenient Truth
 
 ### About Me
@@ -124,11 +126,10 @@ I didn’t spend much time at all preparing for this
 attack. Maybe a month, probably less. I have do this
 before I lose my nerve. I figured that an under-prepared attack and a meh manifesto is better than no
 attack and no manifesto
-Reaction
-Statistically, millions of migrants have returned t
-o their home countries to reunite with the family t
-hey
-lost contact with when they moved to America. They
+
+### Reaction
+
+Statistically, millions of migrants have returned to their home countries to reunite with the family they lost contact with when they moved to America. They
 come here as economic immigrants, not for asylum
 reasons. This is an encouraging sign that the Hispanic population is willing to return to their home
 countries if given the right incentive. An incentive that myself and many other patriotic Americans will
@@ -142,8 +143,7 @@ My whole life I have been preparing for a future that currently doesn’t exist.
 likely be automated. Hispanics will take control of
 the local and state government of my beloved Texas,
 changing policy to better suit their needs. They will turn Texas into an instrument of a political coup
-which will hasten the destruction of our country. The environment is getting worse by the year. If you
-take nothing else from this document, remember this
+which will hasten the destruction of our country. The environment is getting worse by the year. If you take nothing else from this document, remember this
 : INACTION IS A CHOICE. I can no longer bear the
 shame of inaction knowing that our founding fathers
 have endowed me with the rights needed to save
