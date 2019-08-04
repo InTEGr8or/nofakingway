@@ -45,8 +45,9 @@ Statistically, millions of migrants have returned t o their home countries to re
 ### Personal Reasons and Thoughts
 
 My whole life I have been preparing for a future that currently doesn’t exist. The job of my dreams will likely be automated. Hispanics will take control of the local and state government of my beloved Texas,
-changing policy to better suit their needs. They will turn Texas into an instrument of a political coup which will hasten the destruction of our country. The environment is getting worse by the year. If you take nothing else from this document, remember this
-: INACTION IS A CHOICE. I can no longer bear the shame of inaction knowing that our founding fathers have endowed me with the rights needed to save our country from the brink destruction. Our European comrades don’t have the gun rights needed to repel the millions of invaders that plaque their country. They have no choice but to sit by and watch their countries burn.
+changing policy to better suit their needs. They will turn Texas into an instrument of a political coup which will hasten the destruction of our country. The environment is getting worse by the year. If you take nothing else from this document, remember this:
+
+INACTION IS A CHOICE. I can no longer bear the shame of inaction knowing that our founding fathers have endowed me with the rights needed to save our country from the brink destruction. Our European comrades don’t have the gun rights needed to repel the millions of invaders that plaque their country. They have no choice but to sit by and watch their countries burn.
 
 America can only be destroyed from the inside-out.
 
