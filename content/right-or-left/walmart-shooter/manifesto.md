@@ -1,6 +1,6 @@
 ---
 title: WALMART SHOOTER MANIFESTO
-date: Sat Aug 03 2019 22:31:51 ET
+date: 2019-08-03
 draft: false
 ---
 
