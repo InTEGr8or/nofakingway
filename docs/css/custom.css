@@ -1,8 +1,9 @@
 @import url(https://cdn.jsdelivr.net/gh/tonsky/FiraCode@1.207/distr/fira_code.css);
 body {
-	color: #D28445;
+	color: #A88F57;
 	background-color: #000;
 	font-family: 'Fira Code', monospace;
+	font-size: 0.9em;
 }
 
 article {
@@ -13,7 +14,7 @@ article h1 {
 }
 
 article .article-title {
-	color:#7080a0;
+	color:#DD2727;
 }
 
 a {
@@ -41,9 +42,12 @@ a {
 }
 
 .article-titles{
-	display: block;
+	display: inline-block;
+	width: 100%;
 	color: #FFF900;
-	background-color: #663399;
+	font-size: 1.2em;
+	vertical-align: 0.5%;
+	background-color: #66339975;
 }
 
 .terms {
