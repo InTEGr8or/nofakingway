@@ -29,6 +29,9 @@ a {
 	color: rgba(255, 255, 0, 0.75);
 }
 
+.site-tag {
+	font-size: 1.4em;
+}
 .article img {
 	border: none;
 	padding: 7px 5px 5px 0;
