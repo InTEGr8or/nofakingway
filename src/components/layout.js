@@ -25,6 +25,7 @@ const Layout = ({ children }) => (
     render={data => (
       <>
         <Header siteTitle={data.site.siteMetadata.title} />
+        <meta httpEquiv="X-UA-Compatible" content="IE=9"></meta>
         <div id="content"
           style={{
             margin: `0 auto`,
