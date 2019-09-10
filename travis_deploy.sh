@@ -2,6 +2,7 @@
 
 set -e
 
+echo "travis_deploy.sh started"
 echo $GITHUB_TOKEN > ~/.git-credentials && chmod 0600 ~/.git-credentials
 git config --global credential.helper store
 git config --global user.email "admin@thefullertonian.com"
