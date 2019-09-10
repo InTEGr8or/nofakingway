@@ -4,12 +4,13 @@ set -e
 
 echo $GITHUB_TOKEN > ~/.git-credentials && chmod 0600 ~/.git-credentials
 git config --global credential.helper store
-git config --global user.email "<GITHUB LOGIN OF BOT>@users.noreply.github.com"
-git config --global user.name "My cool bot"
+git config --global user.email "admin@thefullertonian.com"
+git config --global user.name "Travis.ci as Mark Stouffer"
 git config --global push.default simple
 
+echo "pushing to deployment/"
 rm -rf deployment
-git clone -b master https://github.com/<GITHUB HTTPS PATH TO YOUR PUBLISHING REPO> deployment
+git clone -b master https://github.com/InTEGr8or/hugo_nofakingway deployment
 rsync -av --delete --exclude ".git" public/ deployment
 cd deployment
 git add -A
