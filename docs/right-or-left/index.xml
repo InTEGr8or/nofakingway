@@ -12,5 +12,14 @@
 	<atom:link href="http://nofakingway.com/right-or-left/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title></title>
+      <link>http://nofakingway.com/right-or-left/nazi-party/talk_nazi-party---wikipedia/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://nofakingway.com/right-or-left/nazi-party/talk_nazi-party---wikipedia/</guid>
+      <description>Talk:Nazi Party - Wikipedia document.documentElement.className=document.documentElement.className.replace(/(^|\s)client-nojs(\s|$)/,&#34;$1client-js$2&#34;);RLCONF={&#34;wgCanonicalNamespace&#34;:&#34;Talk&#34;,&#34;wgCanonicalSpecialPageName&#34;:!1,&#34;wgNamespaceNumber&#34;:1,&#34;wgPageName&#34;:&#34;Talk:Nazi_Party&#34;,&#34;wgTitle&#34;:&#34;Nazi Party&#34;,&#34;wgCurRevisionId&#34;:908810948,&#34;wgRevisionId&#34;:908810948,&#34;wgArticleId&#34;:172565,&#34;wgIsArticle&#34;:!0,&#34;wgIsRedirect&#34;:!1,&#34;wgAction&#34;:&#34;view&#34;,&#34;wgUserName&#34;:null,&#34;wgUserGroups&#34;:[&#34;*&#34;],&#34;wgCategories&#34;:[&#34;All Wikipedia vital articles&#34;,&#34;All Wikipedia level-5 vital articles&#34;,&#34;All Wikipedia vital articles in History&#34;,&#34;All Wikipedia C-Class vital articles&#34;,&#34;Selected anniversaries articles&#34;,&#34;Wikipedia level-5 vital articles in History&#34;,&#34;Wikipedia C-Class vital articles in History&#34;,&#34;Wikipedia C-Class level-5 vital articles&#34;,&#34;Wikipedia controversial topics&#34;,&#34;C-Class Germany articles&#34;,&#34;High-importance Germany articles&#34;,&#34;C-Class Munich articles&#34;,&#34;High-importance Munich articles&#34;,&#34;C-Class history articles&#34;,&#34;High-importance history articles&#34;, &#34;WikiProject History articles&#34;,&#34;C-Class politics articles&#34;,&#34;High-importance politics articles&#34;,&#34;C-Class fascism articles&#34;,&#34;Unknown-importance fascism articles&#34;,&#34;Fascism task force articles&#34;,&#34;C-Class political party articles&#34;,&#34;Unknown-importance political party articles&#34;</description>
+    </item>
+    
   </channel>
 </rss>
