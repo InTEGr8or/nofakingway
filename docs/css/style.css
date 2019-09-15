@@ -170,7 +170,7 @@ blockquote blockquote blockquote blockquote {
 }
 .article-title {
   margin: 0;
-  padding: 0;
+  padding: 5px;
 }
 .article-subtitle {
   margin: 0;
@@ -381,10 +381,7 @@ blockquote blockquote blockquote blockquote {
   margin-bottom: 15px;
 }
 .list .article-image {
-  width: 200px;
-  float: left;
-  margin: 0;
-  margin-right: 8px;
+  margin: 0 0 20px 0;
 }
 .list .article-content {
 }
@@ -555,7 +552,7 @@ blockquote blockquote blockquote blockquote {
   fill: currentColor;
 }
 
-.404 h1 {
+h1 {
   text-align: center;
 }
 
@@ -598,4 +595,7 @@ blockquote blockquote blockquote blockquote {
     box-sizing: border-box;
   }
 
+}
+.panels {
+  margin-top: 20px;
 }
