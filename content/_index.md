@@ -5,13 +5,19 @@ description: The battle for honesty has not been won. Inside the minds of many p
 
 # Honesty Saves
 
-Turning down the noise in the cultural chatter.
+### Turning down the noise in the cultural chatter.
 
-That seems to be a high priority right now, with all the cries of "fake news" and "foreign influence" in political campaigns. But how did we get here? Haven't we always known that false information is not helpful, or even dangerous?
+Reducing distraction and confusion is a high priority right now. With all the cries of "fake news" and "foreign influence" in political campaigns, "Russian bots" and AI algorithms pushing "deep fakes" on social media.
+
+But how did we get here? Haven't we always known that false information is not helpful, or even dangerous?
 
 Well, no. No, not at all. No, we _absolutely_ do not understand the high cost of lies. That is not the society that you live in. The society you live in has a cultural vocabulary and widespread practice of dealing in lies. This is not just a problem among the elites. There is broad acceptance of trading lies, especially in the realm of politics. Where honesty is favored in the practical and technical realms of activity, the political realm has become the upside-down-world of ethical interaction. Deception tactics are not only used against war-making beligerents, but are accepted tools to be used within a state against the very public that elects the rulers. Moreover, the policy of lies is even defended, and holds currency, among the electorate.
 
 ## The Noble Lie
+
+A revealing episode occurred on "The View" with guest Pamela Anderson and hosts Joy Behar and Meghan McCain. [Mark Stouffer - Value Critic on Twitter](https://twitter.com/ValueCritic/status/1170089759919636483)
+
+ANDERSON:
 
 > To walk in the NofaKingway you can come from anywhere, and bring anything _that works_. All you have to discard is _what doesn't work_.
 
