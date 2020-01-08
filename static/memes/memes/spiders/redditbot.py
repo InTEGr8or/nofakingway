@@ -20,23 +20,34 @@ class JsonWriterPipeline(object):
         line = json.dumps(dict(item)) + "\n"
         self.file.write(line)
         response = requests.get(item['src'], stream=True)
-        img_file = script_path + "/images/" + item['src'].split('/')[3].split('?')[0]
-        with open(img_file, 'wb') as out_file:
+        directory = f"{script_path}/images/{item['directory']}/"
+        if not os.path.exists(directory):
+            os.mkdir(directory)
+        file_name = item['src'].split('/')[3].split('?')[0]
+        with open(directory + file_name, 'wb') as out_file:
             shutil.copyfileobj(response.raw, out_file)
         del response
         return item
 
 class RedditbotSpider(scrapy.Spider):
     name = 'redditbot'
-    allowed_domains = ['www.reddit.com/r/libertarianmeme']
+    allowed_domains = ['www.reddit.com']
+    start_urls = [
+            'http://www.reddit.com/r/libertarianmeme/',
+            'http://www.reddit.com/r/dankmemes',
+            'https://www.reddit.com/r/memeeconomy'
+        ]
 
     def start_requests(self):
-        url = ['http://www.reddit.com/r/libertarianmeme/']
-        yield scrapy.Request(url[0], self.parse)
+        for url in self.start_urls:
+            yield scrapy.Request(url, self.parse)
 
     def parse(self, response):
-        for image in response.xpath("//img[@alt='Post image']"):
-            yield {'src': image.attrib['src'] }
+        for image in response.xpath("//img[@alt='Post image']|//img[@id='image-element']"):
+            yield {
+                'src': image.attrib['src'],
+                'directory': response.url.split('/')[4]
+            }
 
 process = CrawlerProcess(settings={
     'LOG_LEVEL': logging.WARNING,
