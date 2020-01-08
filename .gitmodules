@@ -1,0 +1,7 @@
+[submodule "themes/blackplain"]
+	path = themes/blackplain
+	url = https://github.com/InTEGr8or/hugo_blackplain_theme.git
+	branch = master
+[submodule "themes/reveal-hugo"]
+	path = themes/reveal-hugo
+	url = git@github.com:dzello/reveal-hugo.git

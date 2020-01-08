@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Stack on </title>
+    <link>http://nofakingway.com/tags/stack/</link>
+    <description>Recent content in Stack on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.</copyright>
+    <lastBuildDate>Thu, 01 Mar 2018 21:04:07 -0800</lastBuildDate>
+    
+	<atom:link href="http://nofakingway.com/tags/stack/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Choosing Hugo Over DocPad</title>
+      <link>http://nofakingway.com/static-text-generation/choosing-hugo-over-docpad/</link>
+      <pubDate>Thu, 01 Mar 2018 21:04:07 -0800</pubDate>
+      
+      <guid>http://nofakingway.com/static-text-generation/choosing-hugo-over-docpad/</guid>
+      <description>I love the flexibility of static generated sites. I can create content easily while I also develop the logical structure of the components and their taxonomical relations.
+Most of that is provided by Markdown, including the YAML front-matter. So the static generator just needs to be easy to start and extend, and it also needs to be sustainable.
+It doesn&amp;rsquo;t make sense to invest in learning how to use a static site generator that is not being actively used by a community of people.</description>
+    </item>
+    
+  </channel>
+</rss>

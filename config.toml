@@ -1,0 +1,100 @@
+theme = "blackplain"
+baseURL = "http://nofakingway.com"
+languageCode = "en-us"
+copyright = "This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License."
+
+topics = ["Contradition", "Universal", "Activity"]
+
+MetaDataFormat = "yaml"
+DefaultContentLanguage = "en"
+SectionPagesMenu = "main"
+Paginate = 10
+enableRobotsTXT = true
+publishDir = "docs"
+googleAnalytics = "UA-115076488-1"
+amazonAssociateTrackingId = "mobilea0dbe49-20"
+
+
+[params]
+  title = "NOFA Kingway"
+  taglines = ["A lie is not your aly,", "it is a liability."]
+  version = "beta"
+  githubURL = "git@github.com:InTEGr8or/hugo_nofakingway.git"
+  logo="/images/nofakingway-250xauto.jpg"
+
+  # Date format
+  #dateFormat = "January 2, 2006"
+
+# This is displayer in About page.
+[params.author]
+  name = "Mark Stouffer"
+  email = "mark@nofakingway.com"
+  # Gravatar or Abatar image
+  gravatar = "admin@thefullertonian.com"
+  # avatar = "/path/to/avatar"
+
+  twitter = "ValueCritic"
+#   facebook = "Facebook username"
+#   googleplus = "Googleplus username"
+#   instagram = "Instagram username"
+#   tumblr = "Tumblr username"
+#   flickr = "Flickr username"
+#   reddit = "Reddit username"
+#   linkedin = "Linkedin username"
+#   slideshare = "Slideshare username"
+#   github = "Github username"
+#   gitlab = "Gitlab username"
+#   bitbucket = "Bitbucket username"
+#   stackoverflow = "Stackoverflow username"
+#   jsfiddle = "Jsfiddle username"
+#   codepen = "Codepen username"
+#   deviantart = "Deviantart username"
+#   behance = "Behance username"
+#   dribbble = "Dribbble username"
+#   wordpress = "Wordpress username"
+#   medium = "Medium username"
+#   foursquare = "Foursquare username"
+#   xing = "Xing username"
+#   quora = "Quora username"
+#   youtube = "Youtube username"
+#   vimeo = "Vimeo username"
+#   whatsapp = "Whatsapp username"
+#   skype = "Skype username"
+#   snapchat = "Snapchat username"
+#   pinterest = "Pinterest username"
+#   telegram = "Telegram username"
+#   vine = "Vine username"
+
+[taxonomies]
+  category = "topics"
+  tag = "tags"
+  series = "series"
+
+# Header Menu
+# [[menu.main]]
+#   name = "Topics"
+#   identifier = "topics"
+#   url = "/topics/"
+#   weight = 1
+# [[menu.main]]
+#   name = "Tags"
+#   identifier = "tags"
+#   url = "/tags/"
+#   weight = 2
+# [[menu.main]]
+#   name = "About"
+#   identifier = "about"
+#   url = "/about/"
+#   weight = 4
+
+# Footer Menu
+[[menu.footer]]
+  name = "About"
+  weight = 1
+  identifier = "about"
+  url = "/about/"
+[[menu.footer]]
+  name = "Tags"
+  weight = 2
+  identifier = "tags"
+  url = "/tags/"
