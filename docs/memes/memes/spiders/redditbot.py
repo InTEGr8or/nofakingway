@@ -7,10 +7,9 @@ import requests
 from datetime import datetime
 import shutil
 import os
-
 script_path = os.path.dirname(os.path.dirname(__file__)).replace("\\", "/")
-
 class JsonWriterPipeline(object):
+
     def open_spider(self, spider):
         self.file = open('quoteresult.jl', 'w')
 
@@ -49,10 +48,6 @@ class RedditbotSpider(scrapy.Spider):
                 'src': image.attrib['src'],
                 'directory': response.url.split('/')[4]
             }
-        next_page = response.xpath('//link[@rel="next"]/@href').extract_first()
-        if next_page is not None:
-            yield response.follow(next_page, self.parse)
-
 
 process = CrawlerProcess(settings={
     'LOG_LEVEL': logging.WARNING,
