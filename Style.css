@@ -1,0 +1,17 @@
+
+body{
+    background-color: #000;
+    color: #FFF;
+
+}
+.left-column{
+    width: 30%;
+}
+
+.middle-column{
+    margin-left: 30%;
+}
+
+.right-column{
+    margin-left: 40em;
+}
