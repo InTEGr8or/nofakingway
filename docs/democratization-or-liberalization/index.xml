@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Democratization or Liberalization on </title>
@@ -7,11 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.</copyright>
-    <lastBuildDate>Thu, 08 Mar 2018 07:30:13 -0800</lastBuildDate>
-    
-	<atom:link href="http://nofakingway.com/democratization-or-liberalization/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Thu, 08 Mar 2018 07:30:13 -0800</lastBuildDate><atom:link href="http://nofakingway.com/democratization-or-liberalization/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
       <link>http://nofakingway.com/democratization-or-liberalization/misinformed-democratization/</link>
@@ -19,8 +15,9 @@
       
       <guid>http://nofakingway.com/democratization-or-liberalization/misinformed-democratization/</guid>
       <description>Misinformed Democratization example citation [@krycho:revelation:2015, ¶6]
-Examples of the misatribution of liberalization to democratization  Democracy can be defined as: &amp;gt; A system of government by the whole population or all the eligible members of a state, typically through elected representatives.
- After this definition, the meaning is distorted
+Examples of the misatribution of liberalization to democratization  Democracy can be defined as:
+ A system of government by the whole population or all the eligible members of a state, typically through elected representatives.
+  After this definition, the meaning is distorted
  To put it more simply, democratic governments answer to their citizens. Through voting, people frame the institutions that govern them.</description>
     </item>
     
@@ -31,7 +28,7 @@ Examples of the misatribution of liberalization to democratization  Democracy ca
       
       <guid>http://nofakingway.com/democratization-or-liberalization/whiteboard/</guid>
       <description>Excluded Middle Whiteboard | Democratization | Liberalization | | Political Property | Private Property | | &amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;* | &amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;-* | | Majority Rule | Minority Rights | | Southern Democrats | Republicans | | Race Law | Abolishonism | | Production | | | Plantations/Slavery | Liberated Markets |
-In the News  The Atlantic, &amp;ldquo;Is Democracy Dying&amp;rdquo;, special issue, 2018-10 Noam Chomsky, America&amp;rsquo;s foremost intellectual, Democracy threatened by liberalism.</description>
+In the News  The Atlantic, &amp;ldquo;Is Democracy Dying&amp;rdquo;, special issue, 2018-10 Noam Chomsky, America&amp;rsquo;s foremost intellectual, Democracy threatened by liberalism. Some recent books.</description>
     </item>
     
   </channel>

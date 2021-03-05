@@ -4,6 +4,8 @@ description: Short notes on contemporary issues, either already posted or intend
 date: 2018-09-29
 ---
 
+<a class="twitter-timeline" href="https://twitter.com/ValueCritic?ref_src=twsrc%5Etfw">Tweets by ValueCritic</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## 2018-09-29 Kavanaugh
 
 People want you to focus on the woman, or the man, or the male-vs-female. But that's not what's happening. The Party leaders who want you to focus exclusively on the alleged victim, have done this before, in the 80's during Clarence Thomas hearings. Then in the 90's they wanted you to completely ignore the victim, Lewinsky, and actively shame her to this day.

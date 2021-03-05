@@ -1,17 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Validity on </title>
+    <title>validity on </title>
     <link>http://nofakingway.com/tags/validity/</link>
-    <description>Recent content in Validity on </description>
+    <description>Recent content in validity on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.</copyright>
-    <lastBuildDate>Fri, 02 Mar 2018 18:18:44 -0800</lastBuildDate>
-    
-	<atom:link href="http://nofakingway.com/tags/validity/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Fri, 02 Mar 2018 18:18:44 -0800</lastBuildDate><atom:link href="http://nofakingway.com/tags/validity/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Fake News, Fake Science, and You</title>
       <link>http://nofakingway.com/fake-news-fake-science-and-you/</link>
