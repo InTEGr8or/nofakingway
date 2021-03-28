@@ -1,5 +1,14 @@
 <div class="main">
 	<section class="row">
+		<ul style="list-style: none;">
+			{{- range .Page.Sections }}
+				<a href="{{ .Permalink | relURL }}" class="article-titles">
+					<li>{{ .Title }}</li>			
+				</a>
+			{{- end }}
+		</ul>
+	</section>
+	<section class="row">
 		{{- range .Page.Sections }}
 			<div class="col-md-6">
 				<div class="card-body">
