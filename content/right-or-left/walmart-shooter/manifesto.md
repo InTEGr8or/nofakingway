@@ -1,10 +1,11 @@
 ---
 title: WALMART SHOOTER MANIFESTO
-date: 2019-08-03
+date: 2019-08-03T12:00:00
 draft: false
 ---
 
 > Since the political orientation of these mass shooters is invariably used to smear political parties and policies, it is imperative that the original text be available for independent analysis, since all news organizations and reporters have revealed themselves to be politically biased.
+
 > This content is provided here in its entirety. My comments are on the parent page.
 
 [Source MANIFESTO](https://drudgereport.com/flashtx.htm)
