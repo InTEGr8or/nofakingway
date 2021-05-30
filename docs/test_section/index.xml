@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Test Section on </title>
+    <link>http://nofakingway.com/test_section/</link>
+    <description>Recent content in Test Section on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.</copyright>
+    <lastBuildDate>Thu, 08 Mar 2018 07:30:13 -0800</lastBuildDate>
+    
+	<atom:link href="http://nofakingway.com/test_section/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
