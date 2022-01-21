@@ -1,13 +1,13 @@
 
 # Excluded Middle Whiteboard
 
-|   Democratization   |  Liberalization   |
+| Democratization |  Liberalization   |
+| ------------------| ----------------|
 | Political Property  | Private Property  |
-| ------------------* | ----------------* |
 | Majority Rule       | Minority Rights   |
 | Southern Democrats  | Republicans       |
 | Race Law            | Abolishonism      |
-| Production          |                   |
+| Demand-Side Economny | Supply-Side Economy |
 | Plantations/Slavery | Liberated Markets |
 
 ## In the News
